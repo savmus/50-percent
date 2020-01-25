@@ -1,0 +1,1 @@
+json.extract! user, :id, :avatar_id, :username, :gender, :first_name, :last_name, :birthday, :bio, :city, :state, :country, :website, :twitter, :facebook, :instagram
