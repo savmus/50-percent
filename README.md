@@ -1,24 +1,5 @@
-# README
+# 50%
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is currently in development. Please come back later for the live link and production README.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+In the meantime, feel free to look through the design documents on the [wiki](https://github.com/savmus/50-percent/wiki).
